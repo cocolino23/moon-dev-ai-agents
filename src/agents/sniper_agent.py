@@ -25,7 +25,7 @@ import logging
 from rich.console import Console
 from rich import print as rprint
 from playsound import playsound
-from zipimport import zipimporter
+
 # Suppress INFO logs
 logging.getLogger().setLevel(logging.WARNING)
 
